@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "picture": "/src/assets/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "rgb(147 197 253)",
+        "card_bg": "rgb(191 219 254)",
+        "text_color": "rgb(59 130 246)",
+        "description": "In today's fast-paced world, where unhealthy lifestyle choices are becoming increasingly prevalent, a robust health campaign is more essential than ever. Such campaigns serve as a beacon, guiding individuals towards adopting healthier habits and making informed decisions about their well-being. Through targeted messaging, educational resources, and community engagement initiatives, these campaigns strive to raise awareness about various health issues, from promoting physical activity and nutritious eating to advocating for mental wellness and preventative care. By fostering a culture of proactive health management, these campaigns not only empower individuals to take charge of their own health but also contribute to the overall well-being of communities. With the right strategies in place, a well-executed health campaign can inspire lasting behavioral change, ultimately leading to healthier, happier lives for all.",
+        "price": 25
+    },
+    {
+        "id": 2,
+        "picture": "/src/assets/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "rgb(249 168 212)",
+        "card_bg": "rgb(251 207 232)",
+        "text_color": "rgb(236 72 153)",
+        "description": "An education campaign serves as a vital catalyst for societal progress, fostering awareness, knowledge dissemination, and behavioral change. Through strategic dissemination of information and resources, such campaigns empower individuals to make informed decisions, driving positive transformations in various spheres of life. Whether raising awareness about environmental conservation, promoting literacy initiatives, or advocating for public health measures, education campaigns play a pivotal role in shaping attitudes and driving collective action. By leveraging multimedia platforms, community engagement, and targeted messaging, these campaigns bridge gaps in understanding, empower marginalized populations, and inspire a culture of lifelong learning. Ultimately, education campaigns serve as powerful tools for building resilient, informed communities capable of navigating complex challenges and embracing opportunities for growth and development.",
+        "price": 30
+    },
+    {
+        "id": 3,
+        "picture": "/src/assets/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "rgb(217 249 157)",
+        "card_bg": "rgb(236 252 203)",
+        "text_color": "rgb(132 204 22)",
+        "description": "The clothing campaign emerges as a powerful force driving change within the fashion industry, advocating for ethical and sustainable practices throughout the garment supply chain. Rooted in the recognition of the environmental and social impacts of fast fashion, this movement champions transparency, fair labor practices, and eco-friendly materials. It calls upon consumers to rethink their purchasing habits, opting for quality over quantity and supporting brands committed to ethical manufacturing processes. By shedding light on issues such as sweatshop labor, textile waste, and carbon emissions, the campaign seeks to inspire a shift towards a more responsible and conscious approach to fashion consumption. Through initiatives like clothing swaps, upcycling workshops, and calls for industry reform, this movement empowers individuals to make mindful choices that prioritize people and the planet. Ultimately, the clothing campaign envisions a future where fashion is not only stylish but also sustainable, ensuring that every garment tells a story of integrity and compassion.",
+        "price": 20
+    },
+    {
+        "id": 4,
+        "picture": "/src/assets/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "rgb(253 224 71)",
+        "card_bg": "rgb(254 240 138)",
+        "text_color": "rgb(234 179 8)",
+        "description": "The food campaign, a rallying call to embrace healthier eating habits and sustainable food choices, has sparked a wave of consciousness across communities. Rooted in the belief that food is not only sustenance but also a reflection of our values, this movement aims to foster a deeper connection between consumers and their food sources. From advocating for locally sourced produce to promoting plant-based alternatives, the campaign seeks to empower individuals to make informed decisions that benefit both their well-being and the planet. By raising awareness about the environmental impact of food production and the importance of equitable access to nutritious meals, this initiative strives to create a more inclusive and environmentally conscious food system. Through education, advocacy, and grassroots action, the food campaign inspires a collective effort towards a healthier, more sustainable future for all.",
+        "price": 35
+    },
+    {
+        "id": 5,
+        "picture": "/src/assets/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "rgb(253 224 71)",
+        "card_bg": "rgb(254 240 138)",
+        "text_color": "rgb(234 179 8)",
+        "description": "The food campaign, a rallying call to embrace healthier eating habits and sustainable food choices, has sparked a wave of consciousness across communities. Rooted in the belief that food is not only sustenance but also a reflection of our values, this movement aims to foster a deeper connection between consumers and their food sources. From advocating for locally sourced produce to promoting plant-based alternatives, the campaign seeks to empower individuals to make informed decisions that benefit both their well-being and the planet. By raising awareness about the environmental impact of food production and the importance of equitable access to nutritious meals, this initiative strives to create a more inclusive and environmentally conscious food system. Through education, advocacy, and grassroots action, the food campaign inspires a collective effort towards a healthier, more sustainable future for all.",
+        "price": 40
+    },
+    {
+        "id": 6,
+        "picture": "/src/assets/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "rgb(217 249 157)",
+        "card_bg": "rgb(236 252 203)",
+        "text_color": "rgb(132 204 22)",
+        "description": "The clothing campaign emerges as a powerful force driving change within the fashion industry, advocating for ethical and sustainable practices throughout the garment supply chain. Rooted in the recognition of the environmental and social impacts of fast fashion, this movement champions transparency, fair labor practices, and eco-friendly materials. It calls upon consumers to rethink their purchasing habits, opting for quality over quantity and supporting brands committed to ethical manufacturing processes. By shedding light on issues such as sweatshop labor, textile waste, and carbon emissions, the campaign seeks to inspire a shift towards a more responsible and conscious approach to fashion consumption. Through initiatives like clothing swaps, upcycling workshops, and calls for industry reform, this movement empowers individuals to make mindful choices that prioritize people and the planet. Ultimately, the clothing campaign envisions a future where fashion is not only stylish but also sustainable, ensuring that every garment tells a story of integrity and compassion.",
+        "price": 25
+    },
+    {
+        "id": 7,
+        "picture": "/src/assets/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "rgb(249 168 212)",
+        "card_bg": "rgb(251 207 232)",
+        "text_color": "rgb(236 72 153)",
+        "description": "An education campaign serves as a vital catalyst for societal progress, fostering awareness, knowledge dissemination, and behavioral change. Through strategic dissemination of information and resources, such campaigns empower individuals to make informed decisions, driving positive transformations in various spheres of life. Whether raising awareness about environmental conservation, promoting literacy initiatives, or advocating for public health measures, education campaigns play a pivotal role in shaping attitudes and driving collective action. By leveraging multimedia platforms, community engagement, and targeted messaging, these campaigns bridge gaps in understanding, empower marginalized populations, and inspire a culture of lifelong learning. Ultimately, education campaigns serve as powerful tools for building resilient, informed communities capable of navigating complex challenges and embracing opportunities for growth and development.",
+        "price": 30
+    },
+    {
+        "id": 8,
+        "picture": "/src/assets/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "rgb(147 197 253)",
+        "card_bg": "rgb(191 219 254)",
+        "text_color": "rgb(59 130 246)",
+        "description": "In today's fast-paced world, where unhealthy lifestyle choices are becoming increasingly prevalent, a robust health campaign is more essential than ever. Such campaigns serve as a beacon, guiding individuals towards adopting healthier habits and making informed decisions about their well-being. Through targeted messaging, educational resources, and community engagement initiatives, these campaigns strive to raise awareness about various health issues, from promoting physical activity and nutritious eating to advocating for mental wellness and preventative care. By fostering a culture of proactive health management, these campaigns not only empower individuals to take charge of their own health but also contribute to the overall well-being of communities. With the right strategies in place, a well-executed health campaign can inspire lasting behavioral change, ultimately leading to healthier, happier lives for all.",
+        "price": 20
+    },
+    {
+        "id": 9,
+        "picture": "/src/assets/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "rgb(147 197 253)",
+        "card_bg": "rgb(191 219 254)",
+        "text_color": "rgb(59 130 246)",
+        "description": "In today's fast-paced world, where unhealthy lifestyle choices are becoming increasingly prevalent, a robust health campaign is more essential than ever. Such campaigns serve as a beacon, guiding individuals towards adopting healthier habits and making informed decisions about their well-being. Through targeted messaging, educational resources, and community engagement initiatives, these campaigns strive to raise awareness about various health issues, from promoting physical activity and nutritious eating to advocating for mental wellness and preventative care. By fostering a culture of proactive health management, these campaigns not only empower individuals to take charge of their own health but also contribute to the overall well-being of communities. With the right strategies in place, a well-executed health campaign can inspire lasting behavioral change, ultimately leading to healthier, happier lives for all.",
+        "price": 35
+    },
+    {
+        "id": 10,
+        "picture": "/src/assets/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "rgb(249 168 212)",
+        "card_bg": "rgb(251 207 232)",
+        "text_color": "rgb(236 72 153)",
+        "description": "An education campaign serves as a vital catalyst for societal progress, fostering awareness, knowledge dissemination, and behavioral change. Through strategic dissemination of information and resources, such campaigns empower individuals to make informed decisions, driving positive transformations in various spheres of life. Whether raising awareness about environmental conservation, promoting literacy initiatives, or advocating for public health measures, education campaigns play a pivotal role in shaping attitudes and driving collective action. By leveraging multimedia platforms, community engagement, and targeted messaging, these campaigns bridge gaps in understanding, empower marginalized populations, and inspire a culture of lifelong learning. Ultimately, education campaigns serve as powerful tools for building resilient, informed communities capable of navigating complex challenges and embracing opportunities for growth and development.",
+        "price": 40
+    },
+    {
+        "id": 11,
+        "picture": "/src/assets/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "rgb(217 249 157)",
+        "card_bg": "rgb(236 252 203)",
+        "text_color": "rgb(132 204 22)",
+        "description": "The clothing campaign emerges as a powerful force driving change within the fashion industry, advocating for ethical and sustainable practices throughout the garment supply chain. Rooted in the recognition of the environmental and social impacts of fast fashion, this movement champions transparency, fair labor practices, and eco-friendly materials. It calls upon consumers to rethink their purchasing habits, opting for quality over quantity and supporting brands committed to ethical manufacturing processes. By shedding light on issues such as sweatshop labor, textile waste, and carbon emissions, the campaign seeks to inspire a shift towards a more responsible and conscious approach to fashion consumption. Through initiatives like clothing swaps, upcycling workshops, and calls for industry reform, this movement empowers individuals to make mindful choices that prioritize people and the planet. Ultimately, the clothing campaign envisions a future where fashion is not only stylish but also sustainable, ensuring that every garment tells a story of integrity and compassion.",
+        "price": 25
+    },
+    {
+        "id": 12,
+        "picture": "/src/assets/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "rgb(253 224 71)",
+        "card_bg": "rgb(254 240 138)",
+        "text_color": "rgb(234 179 8)",
+        "description": "The food campaign, a rallying call to embrace healthier eating habits and sustainable food choices, has sparked a wave of consciousness across communities. Rooted in the belief that food is not only sustenance but also a reflection of our values, this movement aims to foster a deeper connection between consumers and their food sources. From advocating for locally sourced produce to promoting plant-based alternatives, the campaign seeks to empower individuals to make informed decisions that benefit both their well-being and the planet. By raising awareness about the environmental impact of food production and the importance of equitable access to nutritious meals, this initiative strives to create a more inclusive and environmentally conscious food system. Through education, advocacy, and grassroots action, the food campaign inspires a collective effort towards a healthier, more sustainable future for all.",
+        "price": 30
+    }
+]

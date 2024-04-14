@@ -1,0 +1,26 @@
+ul>li {
+    text-decoration: none;
+    color: black;
+    padding: 0.5rem 1rem;
+    margin: 0 0.25rem;
+    transition: background-color 0.3s ease;
+
+}
+
+ul>li:hover {
+    text-decoration: underline;
+    text-decoration-color: red;
+    /* Change to desired hover background color */
+}
+
+.active {
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-thickness: 2px;
+}
+
+.navbar {
+    background: none;
+
+}
